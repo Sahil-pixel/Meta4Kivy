@@ -71,6 +71,7 @@ android.gradle_dependencies = com.facebook.android:audience-network-sdk:6.+
 3. Replace test placement IDs in `main.py`:
 
 ```python
+##Create Meta Ads Account to Get IDS 
 APP_ID = "YOUR_FACEBOOK_APP_ID"
 BANNER = "YOUR_BANNER_PLACEMENT_ID"
 INTERSTITIAL = "YOUR_INTERSTITIAL_PLACEMENT_ID"
